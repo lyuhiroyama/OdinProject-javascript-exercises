@@ -30,7 +30,10 @@ describe("repeatString", () => {
     in the result, which if your function works correctly will equal the number that
     was randomly generated. */
     expect(repeatString("hey", number).match(/(hey)/g).length).toEqual(number);
+<<<<<<< HEAD
     
+=======
+>>>>>>> aedde26c1a061fc8db315f2283ca16b2695d5988
   });
   test("works with blank strings", () => {
     expect(repeatString("", 10)).toEqual("");

@@ -9,6 +9,10 @@ const repeatString = function(str, num) {
     } else {
         return "ERROR";
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> aedde26c1a061fc8db315f2283ca16b2695d5988
 
 };
 
